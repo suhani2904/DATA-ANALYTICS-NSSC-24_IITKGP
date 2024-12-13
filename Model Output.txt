@@ -1,0 +1,37 @@
+Model Outputs
+
+1. Logistic Regression :
+    Accuracy Score:-  0.8412931667891257
+Precision Score:-  0.5384615384615384
+RMSE - 0.3983802620749105
+
+2. KNeighborsClassifier
+ Accuracy Score:-  0.8434974283614989
+Precision Score:-  0.5862068965517241
+RMSE - 0.3956040591784936
+
+3. XGBClassifier
+Accuracy Score:-  0.8427626745040412
+Precision Score:-  0.5476190476190477
+RMSE - 0.3965316197933764
+
+4. GaussianNB
+Accuracy Score:-  0.8126377663482733
+Precision Score:-  0.31313131313131315
+RMSE - 0.43285359378400295
+
+5. RandomForestClassifier
+Accuracy Score:-  0.8442321822189567
+Precision Score:-  0.6666666666666666
+RMSE - 0.3946743186236512
+
+6. DecisionTreeClassifier
+Accuracy Score:-  0.8368846436443791
+Precision Score:-  0.25
+RMSE - 0.4038754218266084
+
+7. GradientBoostingClassifier
+Accuracy Score:-  0.8390889052167524
+Precision Score:-  0.42857142857142855
+RMSE - 0.4011372518019831
+
